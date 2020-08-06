@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 ./second/create_data.py my_data_prep --root_path=/home/l4/lipeijie/point_cloud_data/ali_dataset --train_path=/home/l4/lipeijie/point_cloud_data/ali_dataset/ImageSets/train.txt

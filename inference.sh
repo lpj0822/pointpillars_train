@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 ./second/pytorch/train.py inference --config_path=./second/configs/pointpillars/my_train.config --data_dir=/home/lpj/github/data/my_point_cloud/test/bins --ckpt_path=./old_best_pointpillars.pth
